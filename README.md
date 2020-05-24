@@ -28,7 +28,7 @@ item imediatamente anterior a ele que se torna automaticamente o último item da
 
 .   A Fila é uma analogia natural com o conceito de fila que usamos no nosso dia a dia: quem entra primeiro entra numa fila é o primeiro a ser atendido.
 
-.   Uma Binária é uma estrutura de dados caracterizada por: Ou não tem elemento algum. Ou tem um elemento distinto, denominado raiz, com dois ponteiros para duas estruturas diferentes, denominadas subarvores esquerda e subarvore a direita.
+.   Uma Arvore Binária é uma estrutura de dados caracterizada por: Ou não tem elemento algum. Ou tem um elemento distinto, denominado raiz, com dois ponteiros para duas estruturas diferentes, denominadas subarvores esquerda e subarvore a direita.
 
 
     
