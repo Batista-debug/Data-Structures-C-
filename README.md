@@ -3,4 +3,6 @@
 
 ### O que é Estrutura de dados ?
 
+Uma estrutura de dados consiste em uma organização de dados na memória de um computador ou em um dispositivo de armazenamento, de modo que esses dados possam ser utilizados de forma eficiente.
+
 
