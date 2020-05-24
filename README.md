@@ -7,6 +7,17 @@ Uma estrutura de dados consiste em uma organização de dados na memória de um 
 
 #### Tipos de Estrutura de Dados 
 
+    Array(Vetores e matrizes)
+    Registro
+    Lista Encadeada 
+    Pilha 
+    Fila
+    Arvore Binária 
+    Tabela Hash
+    Grafo
+    
+   
+  
 
 
 
