@@ -1,5 +1,5 @@
 # Estrutura de Dados 
-## Aprendendo com C++, JAVA, PYTHON, JAVASCRIPT
+## Aprendendo com C++, JAVA, PYTHON, JAVASCRIPT, Ruby
 
 ### O que é Estrutura de dados ?
 
